@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1proj",
+    "title": "Snapie",
+    "slug": "snapie",
+    "type": "Mobile",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk1.webp",
+    "href": "projects/snapie",
+    "description": "An app for viewing and rating trailers"
+  },
+  {
+    "id": "2proj",
+    "title": "Nathavy",
+    "slug": "nathavy",
+    "type": "Website",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk2.webp",
+    "href": "projects/nathavy",
+    "description": "Booking Agency for Rooms and Suites in Luxurious Hotels"
+  },
+  {
+    "id": "3proj",
+    "title": "Sovereign Sky",
+    "slug": "sovereign-sky",
+    "type": "Website",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk3.webp",
+    "href": "projects/sovereign-sky",
+    "description": "Exclusive Air Travel for Discerning Customers, Private Wingjet"
+  },
+  {
+    "id": "4proj",
+    "title": "Ornate Key",
+    "slug": "ornate-key",
+    "type": "Website",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk4.webp",
+    "href": "projects/ornate-key",
+    "description": "Interior Design with a Focus on Furniture"
+  },
+  {
+    "id": "5proj",
+    "title": "FineLine",
+    "slug": "fine-line",
+    "type": "Mobile",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk5.webp",
+    "href": "projects/fine-line",
+    "description": "Mobile Banking App for Fine Line Online Bank"
+  },
+  {
+    "id": "6proj",
+    "title": "Vitality Peak",
+    "slug": "vitality-peak",
+    "type": "Website",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk6.webp",
+    "href": "projects/vitality-peak",
+    "description": "Website for Premium Fitness Club"
+  },
+  {
+    "id": "7proj",
+    "title": "King’s of Strategy",
+    "slug": "kings-of-strategy",
+    "type": "Brand",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk7.webp",
+    "href": "projects/kings-of-strategy",
+    "description": "Branding for Chess Masters Academy"
+  }
+]

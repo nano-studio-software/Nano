@@ -1,0 +1,522 @@
+[
+  {
+    "id": "1proj",
+    "title": "Snapie",
+    "slug": "snapie",
+    "tags": ["Mobile App", "Brand"],
+    "date": "12.04.2023",
+    "image": "/images/projects/wk1.webp",
+    "services": ["UI/UX", "Branding"],
+    "client": "Nano Studio",
+    "nextSlug": "nathavy",
+    "content": [
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "About",
+            "text": "Snapie is a dynamic platform that allows users to watch movie trailers and rate them. Our team is excited to introduce this innovative app, which features a dark, modern, and simple interface. One of Snapie’s standout features is its AI assistant, which accurately analyzes user preferences and helps recommend the perfect films."
+          },
+          {
+            "title": "Project Objective",
+            "text": "Our main goal was to develop an app that not only captivates users but also provides a seamless and enjoyable experience for discovering new movies. We aimed for Snapie to be the go-to app for movie enthusiasts looking for personalized recommendations and easy access to the latest trailers."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", "/images/projects/wk1.webp"]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Research and Analysis",
+            "text": "Before starting the design, we conducted thorough research on competitor apps and the needs of movie fans. We analyzed popular movie trailer apps to identify their strengths and weaknesses. Surveys and user interviews helped us understand what features and design elements users value most in a movie discovery app."
+          },
+          {
+            "title": "Design and Prototyping",
+            "text": "We focused on creating a dark and sleek interface that is both modern and easy to navigate. The design emphasizes simplicity, allowing users to effortlessly browse through trailers and rate them. We developed multiple prototypes and tested them with potential users to refine the design and ensure it met their expectations."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp"]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Development",
+            "text": "During development, we utilized cutting-edge technologies and best practices to build a robust and responsive app. Key features include a vast library of movie trailers, an intuitive rating system, and a sophisticated AI assistant. The AI assistant analyzes user behavior and preferences to provide highly accurate and personalized movie recommendations."
+          },
+          {
+            "title": "Testing and Startup",
+            "text": "Before the official launch, we conducted extensive testing, including functionality tests, user experience evaluations, and performance assessments. We ensured the app worked smoothly on various devices and operating systems. A beta version was released to a select group of users for final feedback, enabling us to make any necessary improvements."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", "/images/projects/wk1.webp"]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Conclusion",
+            "text": "Developing the Snapie app was both a challenging and rewarding experience. The final product is a reflection of our commitment to quality and innovation. With its modern design and powerful AI assistant, Snapie offers an unparalleled movie discovery experience. We are confident that users will love the app’s convenience and personalized recommendations, making Snapie a top choice for movie trailer viewing and rating."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2proj",
+    "title": "Nathavy",
+    "slug": "nathavy",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk2.webp",
+    "client": "Nano Studio",
+    "tags": ["Website", "Brand"],
+    "services": ["UI/UX", "Web Design"],
+    "nextSlug": "sovereign-sky",
+    "content": [
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "About",
+            "text": "Nathavy is a premier booking agency specializing in reserving rooms and suites in the most comfortable and luxurious hotels worldwide. Our website project aims to showcase the exclusive accommodations and exceptional service offered by Nathavy, catering to discerning travelers seeking upscale hotel experiences."
+          },
+          {
+            "title": "Project Objective",
+            "text": "Our primary objective is to create a visually appealing and user-friendly website that captures the essence of luxury and convenience associated with Nathavy. The site will serve as a comprehensive platform for browsing, selecting, and booking accommodations in top-tier hotels across various destinations."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", "/images/projects/wk1.webp"]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Research and Analysis",
+            "text": "Before commencing with design and development, thorough research was conducted on traveler preferences and industry standards in luxury hotel booking. This analysis guided our approach to designing an intuitive interface, selecting appropriate features, and presenting content that resonates with our target audience."
+          },
+          {
+            "title": "Design and Prototyping",
+            "text": "The website design focuses on elegance and functionality, mirroring Nathavy's commitment to superior service and luxurious accommodations. Visual elements and imagery showcase the opulence and comfort of featured hotels, enhancing the allure of each destination. The layout emphasizes ease of navigation and seamless booking experiences for users."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp"]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Development",
+            "text": "During the development phase, advanced web technologies are utilized to ensure optimal performance and responsiveness across desktop and mobile devices. The website integrates robust booking functionalities, including real-time availability, secure payment processing, and personalized booking assistance to enhance user satisfaction."
+          },
+          {
+            "title": "Testing and Startup",
+            "text": "Stringent testing protocols are implemented to validate the website's functionality, usability, and security measures prior to launch. User feedback and beta testing are instrumental in refining the user experience and optimizing conversion rates. The official launch includes a strategic marketing campaign to promote Nathavy's brand visibility and attract affluent travelers."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", "/images/projects/wk1.webp"]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Conclusion",
+            "text": "Developing the website for Nathavy represents a strategic initiative to establish our presence in the luxury hotel booking market. The site's design and features are tailored to meet the expectations of discerning travelers, offering seamless access to exclusive accommodations and personalized service. We are confident that Nathavy's website will elevate the booking experience for luxury travelers and position us as a trusted partner in arranging unforgettable hotel stays worldwide."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3proj",
+    "title": "Sovereign Sky",
+    "slug": "sovereign-sky",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk3.webp",
+    "href": "projects/sovereign-sky",
+    "tags": ["Website", "Brand"],
+    "services": ["UI/UX", "Web Design"],
+    "client": "Nano Studio",
+    "nextSlug": "ornate-key",
+    "content": [
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "About",
+            "text": "Sovereign Sky offers exclusive air travel services tailored for the most discerning customers, featuring private Wingjet experiences. Our website project aims to reflect the luxury, sophistication, and personalized service that define Sovereign Sky's unique approach to air travel. We showcase a commitment to delivering unparalleled comfort and convenience in private aviation."
+          },
+          {
+            "title": "Project Objective",
+            "text": "Our primary objective is to create a website that not only captures the attention of potential clients but also conveys the elite status and exceptional standards of service associated with Sovereign Sky. The site will serve as a virtual gateway, illustrating our capability to provide luxurious and seamless private air travel experiences."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", ""]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Research and Analysis",
+            "text": "Before embarking on design development, extensive research was conducted on the preferences and expectations of high-net-worth individuals seeking private aviation services. This analysis informed our strategic decisions regarding design aesthetics, content presentation, and user experience tailored to our target audience."
+          },
+          {
+            "title": "Design and Prototyping",
+            "text": "The website design embodies elegance and exclusivity, reflecting Sovereign Sky's commitment to luxury travel. Visual elements and imagery emphasize the sophistication of our Wingjet fleet and the bespoke services offered onboard. The layout is designed for intuitive navigation and to highlight the unique features that set Sovereign Sky apart in the private aviation industry."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": [""]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Development",
+            "text": "During the development phase, we employ advanced web technologies to ensure a seamless and responsive user experience across all devices. The website incorporates interactive features such as virtual tours of aircraft interiors, booking capabilities, and personalized service inquiries to engage visitors and facilitate easy access to information."
+          },
+          {
+            "title": "Testing and Startup",
+            "text": "Prior to launch, rigorous testing is conducted to validate the website's functionality, security protocols, and performance under various conditions. User feedback from beta testing is instrumental in refining the user interface and optimizing conversion rates. The official launch is supported by a comprehensive marketing strategy aimed at enhancing brand visibility and attracting our target clientele."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", "/images/projects/wk1.webp"]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Conclusion",
+            "text": "Developing the website for Sovereign Sky represents a pivotal opportunity to showcase our commitment to excellence in private aviation. The site's design and functionality aim to inspire confidence and excitement among potential clients, offering a glimpse into the unparalleled luxury and personalized service that define Sovereign Sky's private Wingjet experiences. We are confident that the website will effectively position Sovereign Sky as a leader in exclusive air travel, catering to the discerning needs of high-profile individuals and corporate clients worldwide."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4proj",
+    "title": "Ornate Key",
+    "slug": "ornate-key",
+    "type": "Website",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk4.webp",
+    "href": "projects/ornate-key",
+    "tags": ["Website"],
+    "client": "Nano Studio",
+    "services": ["UI/UX", "Web Design"],
+    "nextSlug": "fine-line",
+    "content": [
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "About",
+            "text": "Ornate Key specializes in interior design with a unique emphasis on bespoke furniture. Our website project aims to showcase our expertise in creating exquisite interiors that harmoniously blend functionality with aesthetic appeal. We are committed to highlighting the craftsmanship and creativity that define Ornate Key’s approach to interior design."
+          },
+          {
+            "title": "Project Objective",
+            "text": "Our primary goal is to develop a website that not only captivates visitors but also effectively communicates Ornate Key’s dedication to personalized, high-quality interior design solutions. The site will serve as a virtual showroom, demonstrating our capability to transform spaces through custom furniture and thoughtful design."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", ""]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Research and Analysis",
+            "text": "Before commencing with design development, we conducted comprehensive research on trends in interior design and furniture preferences. This analysis informed our decision-making process regarding layout, content strategy, and visual elements that resonate with our target audience: discerning homeowners, architects, and interior designers."
+          },
+          {
+            "title": "Design and Prototyping",
+            "text": "The website design focuses on elegance and functionality, reflecting Ornate Key’s commitment to timeless design principles and craftsmanship. Each page is meticulously designed to showcase our portfolio of bespoke furniture projects and interior design concepts. We prioritize a user-friendly interface that enhances navigation and emphasizes visual storytelling."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": [""]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Development",
+            "text": "During the development phase, we utilize cutting-edge web technologies to ensure a seamless user experience across desktop and mobile devices. The website incorporates interactive elements such as galleries, testimonials, and project showcases to engage visitors and convey the quality and uniqueness of our work."
+          },
+          {
+            "title": "Testing and Startup",
+            "text": "Prior to launch, rigorous testing is conducted to ensure the website’s performance, compatibility, and security. User feedback is solicited through beta testing to fine-tune functionality and optimize user engagement. The official launch includes a comprehensive marketing strategy to maximize visibility and attract our target audience."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", "/images/projects/wk1.webp"]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Conclusion",
+            "text": "Creating the website for Ornate Key represents an opportunity to showcase our passion for interior design and bespoke furniture craftsmanship. The site’s design and functionality aim to inspire visitors while providing a clear understanding of our capabilities and design philosophy. We are confident that Ornate Key’s new website will effectively position us as leaders in the interior design industry, offering tailored solutions that elevate residential and commercial spaces alike."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5proj",
+    "title": "FineLine",
+    "slug": "fine-line",
+    "type": "Product",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk5.webp",
+    "href": "projects/fine-line",
+    "tags": ["Mobile App"],
+    "client": "Nano Studio",
+    "services": ["UI/UX", "Branding"],
+    "nextSlug": "vitality-peak",
+    "content": [
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "About",
+            "text": "Fine Line is an innovative online bank that provides its customers with cutting-edge financial services, similar to Revolut. Our team is thrilled to have developed a sleek, user-friendly mobile banking app that embodies the efficiency and modernity of Fine Line. We chose a clean and intuitive design to ensure an exceptional user experience."
+          },
+          {
+            "title": "Project Objective",
+            "text": "Our main goal was to create a mobile banking app that not only attracts users but also exceeds their expectations. We aimed for the app to offer seamless banking services, making financial management easy and accessible for everyone, anytime and anywhere."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", ""]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Research and Analysis",
+            "text": "Before diving into the design, we conducted extensive competitor analysis and user research. We studied the most successful mobile banking apps on the market, identifying key features and user preferences. Surveys and focus groups helped us understand what Fine Line's potential customers value most in a mobile banking app."
+          },
+          {
+            "title": "Design and Prototyping",
+            "text": "In the design phase, we emphasized simplicity and clarity. The app features a clean interface with intuitive navigation, ensuring users can quickly find and use the services they need. We created multiple prototypes and tested them with target users to refine the design and ensure it met their needs and expectations."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": [""]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Development",
+            "text": "During development, we utilized the latest technologies and best practices in mobile app development to deliver a robust and secure application. The app includes essential features such as account management, money transfers, expense tracking, and currency exchange. Each feature is designed to be user-friendly and efficient."
+          },
+          {
+            "title": "Testing and Startup",
+            "text": "Before launching, we conducted comprehensive testing, including functionality tests, usability tests, and security audits. We ensured the app worked flawlessly across different devices and operating systems. A beta version was released to a selected group of users for final feedback and adjustments, ensuring the highest quality at launch."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", "/images/projects/wk1.webp"]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Conclusion",
+            "text": "Creating the mobile banking app for Fine Line was a significant and rewarding challenge. The final product is a testament to our commitment to excellence and innovation. The app provides a seamless and secure banking experience, reflecting Fine Line’s dedication to modern financial solutions. We are confident that users will appreciate the app’s convenience and functionality, positioning Fine Line as a leader in the online banking industry."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6proj",
+    "title": "Vitality Peak",
+    "slug": "vitality-peak",
+    "type": "Website",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk6.webp",
+    "href": "projects/vitality-peak",
+    "tags": ["Website", "Brand"],
+    "services": ["Branding", "Web Design"],
+    "nextSlug": "kings-of-strategy",
+    "client": "NS x Vitality Peak",
+    "content": [
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "About",
+            "text": "Vitality Peak is a premium fitness club offering top-notch facilities for training and wellness. Our team is proud to have developed a new, modern, and stylish website that highlights the high level and exclusivity of Vitality Peak. We chose dark tones to create an atmosphere of luxury and comfort."
+          },
+          {
+            "title": "Project Objective",
+            "text": "Our main goal was to create a website that not only attracted attention but also met the expectations of Vitality Peak's clients. We wanted users to immediately feel they were entering a world of premium fitness services, where every detail is thoughtfully designed."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", ""]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Research and Analysis",
+            "text": "Before starting the design, we conducted thorough competitor analysis and audience research. We studied which websites are most popular among premium fitness club visitors, and what features and design elements they prefer. We also conducted surveys among Vitality Peak clients to understand their preferences and expectations for the new website."
+          },
+          {
+            "title": "Design and Prototyping",
+            "text": "We focused on dark tones and minimalism in the design. The dark background combined with bright accents creates a sense of luxury and style. We developed several prototypes and tested them with focus groups to ensure our design met the target audience's expectations. In the end, we settled on a clean, elegant interface with easy navigation."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": [""]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Development",
+            "text": "During development, we used modern technologies and advanced programming methods to ensure fast and stable access to the website. The entire site structure was designed with user convenience in mind: from easy registration to detailed class schedules and a booking system for training sessions."
+          },
+          {
+            "title": "Testing and Startup",
+            "text": "Before launching the site, we conducted multi-level testing: checking the functionality of all features, design adaptability for various devices and browsers, and page loading speed. After fixing all identified issues, we launched the site in beta mode for a limited group of users to gather feedback and make final adjustments."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", "/images/projects/wk1.webp"]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Conclusion",
+            "text": "Creating the website for Vitality Peak was not only a challenge but also an opportunity to showcase our best professional qualities. The new site fully reflects the fitness club's philosophy and its pursuit of excellence. We are confident that users will appreciate the convenience and style of our design, and Vitality Peak will become even more popular and sought after among those who value high-quality fitness."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7proj",
+    "title": "King’s of Strategy",
+    "slug": "kings-of-strategy",
+    "type": "Brand",
+    "date": "12.04.2023",
+    "image": "/images/projects/wk7.webp",
+    "href": "projects/kings-of-strategy",
+    "tags": ["Brand"],
+    "client": "Nano Studio",
+    "services": ["UI/UX", "Branding"],
+    "nextSlug": "snapie",
+    "content": [
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "About",
+            "text": "Chess Masters Academy is dedicated to providing top-tier education and training in chess. Our branding project aims to establish a strong visual identity for the academy. The logo features two playing cards: one portraying a pawn and the other a knight, symbolizing strategic mastery and progression in chess."
+          },
+          {
+            "title": "Project Objective",
+            "text": "Our primary goal is to create a distinctive brand identity that reflects the academy’s commitment to empowering aspiring chess champions. Through strategic branding, we aim to communicate professionalism, expertise, and the transformative journey offered by Chess Masters Academy."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", ""]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Research and Analysis",
+            "text": "Before diving into design concepts, we conducted thorough research on the chess education market and competitor analysis. We identified key elements that resonate with chess enthusiasts and potential students. This research guided our decisions in creating a brand that stands out in the education and training industry."
+          },
+          {
+            "title": "Design and Prototyping",
+            "text": "The logo design centers around two playing cards: one with a pawn and the other with a knight. The choice of cards symbolizes foundational learning (pawn) and strategic advancement (knight) in chess. The design is clean, modern, and easily recognizable, reflecting the academy’s dedication to both tradition and innovation in chess education."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": [""]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Development",
+            "text": "During the development phase, we focused on ensuring the logo is versatile and scalable across various applications, from digital platforms to print materials. We paid meticulous attention to typography, color palette, and overall visual harmony to reinforce the academy’s brand values."
+          },
+          {
+            "title": "Testing and Startup",
+            "text": "Prior to launch, we conducted rigorous testing to ensure the logo resonates with the target audience and effectively communicates the academy’s mission. Feedback from stakeholders and potential students was instrumental in refining the final design."
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "images": ["/images/projects/wk1.webp", "/images/projects/wk1.webp"]
+      },
+      {
+        "type": "text",
+        "sections": [
+          {
+            "title": "Conclusion",
+            "text": "The branding initiative for Chess Masters Academy represents a strategic effort to position the academy as a leader in chess education. The logo, featuring symbolic playing cards and the tagline 'Empowering Aspiring Chess Champions', encapsulates the academy’s commitment to nurturing talent and fostering strategic thinking among students. We are confident that this distinctive brand identity will resonate with chess enthusiasts and inspire the next generation of champions."
+          }
+        ]
+      }
+    ]
+  }
+]

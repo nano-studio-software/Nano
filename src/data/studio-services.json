@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1serv",
+    "title": "Brand",
+    "text": "Branding service is all about crafting seamless brand strategies that turn heads and hearts. We create a cohesive look, feel, and voice across all platforms to amplify your brand's presence. By delving deep into your brand's core, we develop a distinctive identity that forges powerful connections with your audience.\n\nVisual Identity / Logo Design / Brand Messaging / Brand Guidelines / Marketing Collateral / Packaging Design"
+  },
+  {
+    "id": "2serv",
+    "title": "Product",
+    "text": "We develop innovative solutions, starting with identifying the problem to be solved and creating meaningful experiences that meet the needs of end users and fit the context of product use. Our solutions focus on creating meaningful user experiences, which requires close team collaboration to ensure that the end product delivers significant value to our clients' businesses.\n\nMobile App / UI Design / UX Design / Design System / Interaction Design / Prototyping"
+  },
+  {
+    "id": "3serv",
+    "title": "Design",
+    "text": "Design and development service begins with identifying the core challenge and crafting a meaningful user experience that meets end-user needs and fits seamlessly into its context. By prioritizing user experience and fostering close team collaboration, we ensure our solutions deliver exceptional value and drive business success for our clients.\n\nWeb Design / Website / UI Design / UX Design / Design System / Interaction Design / Prototyping"
+  },
+  {
+    "id": "4serv",
+    "title": "Marketing",
+    "text": "We help clients succeed in digital marketing by providing expert advice and support. Based on research, audits and performance analysis, we identify opportunities for growth and develop specific recommendations. Our reports include ongoing analysis, suggestions for improvement, and a customized strategic plan so clients can confidently achieve their goals.\n\nCompetitive Analysis / Brand Research / UX Audit / Strategic Research"
+  },
+  {
+    "id": "5serv",
+    "title": "Consulting",
+    "text": "We help our clients improve their efficiency by providing expert advice, guidance and support. Based on research, audits and usability testing, we identify areas for improvement and offer actionable recommendations. Our detailed reporting includes ongoing product analysis, suggestions for improvement and a customized action plan.\n\nCompetitive Analysis / Consumer & Market Research / UX Audit / Usability Testing"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1rev",
+    "text": "Now clients can't contain an enthusiastic 'ooh' when visiting my website. NANO, thanks for the amazing work!",
+    "author": {
+      "name": "Isabella Rose",
+      "title": "SparkIdeas Founder",
+      "company": "Sparkldeas",
+      "image": "/images/projects/proj1.webp"
+    }
+  },
+  {
+    "id": "2rev",
+    "text": "Thank you for creating my stunning portfolio website! I'm thrilled with the final product and grateful for your hard work and creativity.",
+    "author": {
+      "name": "Albert Moldovanu",
+      "title": "Developer",
+      "company": "Shouter",
+      "image": "/images/projects/proj2.webp"
+    }
+  }
+]

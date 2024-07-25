@@ -1,0 +1,22 @@
+[
+  {
+    "id": "st1",
+    "title": "01.\nSend brief",
+    "content": "Before we can begin working on your project, we need to receive a project brief from you. The project brief"
+  },
+  {
+    "id": "st2",
+    "title": "02.\nStay in touch",
+    "content": "Review the preliminary results and let us know your feedback so we can make corrections or continue the work."
+  },
+  {
+    "id": "st3",
+    "title": "03.\nApprove",
+    "content": "Please choose the version that you like the most and we will be happy to provide it to you."
+  },
+  {
+    "id": "st4",
+    "title": "04.\nGet result",
+    "content": "Get the best version of your order in a timely manner and leave your feedback if you wish."
+  }
+]

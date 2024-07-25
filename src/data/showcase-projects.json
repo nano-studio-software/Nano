@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1s-proj",
+    "title": "Snapie",
+    "slug": "snapie",
+    "type": "mobile app",
+    "date": "2024",
+    "image": "/images/projects/proj1.webp",
+    "progress": "in development"
+  },
+  {
+    "id": "2s-proj",
+    "title": "Scribble",
+    "slug": "scribble",
+    "type": "mobile app",
+    "date": "2025",
+    "image": "/images/projects/proj2.webp",
+    "progress": "in progress"
+  },
+  {
+    "id": "3s-proj",
+    "title": "AAM",
+    "slug": "aam",
+    "type": "website",
+    "date": "2025",
+    "image": "/images/projects/wk3.webp",
+    "progress": "considered"
+  },
+  {
+    "id": "4s-proj",
+    "title": "Ornate Key",
+    "slug": "ornate-key",
+    "type": "brand",
+    "date": "2025",
+    "image": "/images/projects/wk4.webp",
+    "progress": "considered"
+  }
+]

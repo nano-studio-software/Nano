@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "icon": "/svg/socials/linkedin.svg",
+    "label": "linkedin",
+    "link": "https://aamoldovanu.com",
+    "size": 24
+  },
+  {
+    "id": 2,
+    "icon": "/svg/socials/instagram.svg",
+    "label": "instagram",
+    "link": "https://aamoldovanu.com",
+    "size": 24
+  },
+  {
+    "id": 3,
+    "icon": "/svg/socials/telegram.svg",
+    "label": "telegram",
+    "link": "https://aamoldovanu.com",
+    "size": 20
+  },
+  {
+    "id": 4,
+    "icon": "/svg/socials/behance.svg",
+    "label": "behance",
+    "link": "https://aamoldovanu.com",
+    "size": 24
+  },
+  {
+    "id": 5,
+    "icon": "/svg/socials/dribbble.svg",
+    "label": "dribbble",
+    "link": "https://aamoldovanu.com",
+    "size": 20
+  }
+]

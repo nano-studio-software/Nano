@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "label": "5% Discount",
+    "sections": [
+      {
+        "title": "Subscribe",
+        "description": "Follow us on Instagram/LinkedIn to get 5% off your first order."
+      },
+      {
+        "title": "Repost",
+        "description": "Get 5% off any of our services when you repost our Instagram post with the hashtag #nanostudio.dev"
+      },
+      {
+        "title": "Review",
+        "description": "Get 5% off your next service when you leave a review of our services on our website or social media."
+      },
+      {
+        "title": "Providing feedback",
+        "description": "Get 5% off your next service when you complete our customer satisfaction survey."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "label": "10% Discount",
+    "sections": [
+      {
+        "title": "2+ Services",
+        "description": "Order 2 or more services at the same time and receive a 10% discount on both."
+      },
+      {
+        "title": "Refer a friend",
+        "description": "Recommend a friend to order a service from us and get a 10% discount both on your next order."
+      },
+      {
+        "title": "Instagram stories",
+        "description": "Post a review story about our work on Instagram with a tag and get a discount."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "label": "15% Discount",
+    "sections": [
+      {
+        "title": "Post a link",
+        "description": "Post a link to our site on your blog or website and receive a discount on your next order."
+      },
+      {
+        "title": "Post a link",
+        "description": "Post a link to our site on your blog or website and receive a discount on your next order."
+      },
+      {
+        "title": "Post a link",
+        "description": "Post a link to our site on your blog or website and receive a discount on your next order."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "label": "25% Discount",
+    "sections": [
+      {
+        "title": "Place a large work",
+        "description": "Place a large work order with a budget of $45,000 or more and receive a discount."
+      },
+      {
+        "title": "More",
+        "description": "Order from 2 services more than 3 times"
+      },
+      {
+        "title": "Your friends",
+        "description": "We've been working together for over 2 years"
+      }
+    ]
+  }
+]

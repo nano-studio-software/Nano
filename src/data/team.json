@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/images/team/petrucio.webp",
+    "name": "M. Albert-Andrew",
+    "title": "Full-Stack Developer",
+    "position": "Founder"
+  },
+  {
+    "id": 2,
+    "image": "/images/team/chris.webp",
+    "name": "Moldovanu Arthur",
+    "title": "UX/UI & Product Designer",
+    "position": "Co-founder"
+  },
+  {
+    "id": 3,
+    "image": "/images/team/madam.webp",
+    "name": "Freaya Riverstone",
+    "title": "Graphic & Brand Designer",
+    "position": "Designer"
+  }
+]

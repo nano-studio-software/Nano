@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "value": "concept-design",
+    "label": "Concept Design"
+  },
+  {
+    "id": 2,
+    "value": "web-design",
+    "label": "Web Design"
+  },
+  {
+    "id": 3,
+    "value": "app-design",
+    "label": "App Design"
+  },
+  {
+    "id": 4,
+    "value": "branding",
+    "label": "Branding"
+  },
+  {
+    "id": 5,
+    "value": "product-design",
+    "label": "Product Design"
+  },
+  {
+    "id": 6,
+    "value": "development",
+    "label": "Development"
+  },
+  {
+    "id": 7,
+    "value": "other",
+    "label": "Other"
+  }
+]
